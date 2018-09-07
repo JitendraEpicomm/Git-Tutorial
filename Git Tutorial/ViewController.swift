@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     let message = "Hello Git!"
 
     override func viewDidLoad() {
+//        fh
         super.viewDidLoad()
         print(message)
         // Do any additional setup after loading the view, typically from a nib.
